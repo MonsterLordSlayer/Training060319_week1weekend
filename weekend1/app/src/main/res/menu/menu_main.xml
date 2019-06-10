@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.weekend1.MainActivity"
+    >
+    <item
+        android:id="@+id/A_killer"
+        android:title="AngelKiller"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/ML_slayer"
+        android:title="MonsterLordSlayer"
+        app:showAsAction="never"
+        ></item>
+
+</menu>
